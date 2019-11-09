@@ -1,6 +1,6 @@
 from cs1robots import *
 
-load_world('my_worlds/3_beeper_line_3.wld')
+load_world('my_worlds/beeper_line_3.wld')
 
 delay = 0
 
